@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:wght@400;600;700&display=swap');
-
+@import url("https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:wght@400;600;700&display=swap");
 * {
   margin: 0;
   padding: 0;
@@ -63,33 +62,30 @@ a {
   align-items: center;
   justify-content: space-around;
   padding: 50px;
-
-  .banner-text {
-    display: flex;
-    flex-direction: column;
-    width: 678vw;
-    height: 227vh;
-    margin: 222px 54.56px;
-    gap: 40px;
-  }
-
-  .banner-text h1 {
-    width: 678px;
-    height: 139px;
-    font-weight: bold;
-    font-size: 60px;
-    line-height: 130%;
-    color: #1F2937;
-  }
-
-  .banner-text h4 {
-    width: 678px;
-    height: 48px;
-    font-family: "Inter";
-    font-weight: 400;
-    font-style: normal;
-    font-size: 20px;
-    line-height: 100%;
-    color: #4B5563;
-  }
 }
+.section-banner .banner-text {
+  display: flex;
+  flex-direction: column;
+  width: 678vw;
+  height: 227vh;
+  margin: 222px 54.56px;
+  gap: 40px;
+}
+.section-banner .banner-text h1 {
+  width: 678px;
+  height: 139px;
+  font-weight: bold;
+  font-size: 60px;
+  line-height: 130%;
+  color: #1F2937;
+}
+.section-banner .banner-text h4 {
+  width: 678px;
+  height: 48px;
+  font-family: "Inter";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+  line-height: 100%;
+  color: #4B5563;
+}/*# sourceMappingURL=style.css.map */
