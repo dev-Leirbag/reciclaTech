@@ -182,7 +182,7 @@ a {
   justify-content: space-around;
   align-items: center;
   background-color: #F3F5F8;
-  width: 1, 182px;
+  width: 1px, 182px;
   height: 184px;
 
   .card-1,
@@ -621,9 +621,227 @@ a {
             }
           }
         }
+      }
+    }
+  }
+}
 
+.section-banner4 {
+  border: 2px solid green;
+  background-color: #F3F5F8;
+  padding: 50px 92px;
+  width: 100%;
+  height: 774px;
+
+  .banner-text3 {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 50px;
+
+    h2 {
+      font-family: "Poppins";
+      font-weight: 700;
+      max-width: 431px;
+      font-size: 40px;
+      line-height: 100%;
+      color: #1F2937;
+    }
+
+    h3 {
+      font-family: "Inter";
+      max-width: 314px;
+      font-weight: 400;
+      font-size: 25px;
+      line-height: 150%;
+      color: #4B5563;
+    }
+  }
+
+  .cards-section5 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 50px;
+    text-align: center;
+
+    .produto1 {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 299px;
+      height: 430px;
+      border: 2px solid #16A34A;
+      border-radius: 8px;
+      background-color: #FFFFFF;
+      gap: 20px;
+
+      img {
+        width: 295px;
+        height: 233px;
       }
 
+      h4 {
+        font-family: "Inter";
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 100%;
+        color: #09090B;
+      }
+
+      p {
+        font-family: "Poppins";
+        font-weight: 400;
+        max-width: 222px;
+        font-size: 16px;
+        line-height: 100%;
+        color: #4B5563;
+      }
+
+      .btn-fone {
+        background-color: #16A34A;
+        width: 150px;
+        padding: 10px;
+        border-radius: 6px;
+        border: 1px solid #16A34A;
+        cursor: pointer;
+
+        a {
+          width: 95px;
+          height: 17px;
+          font-family: "Inter";
+          font-weight: 400;
+          font-size: 14px;
+          line-height: 100%;
+          color: #FFFFFF;
+        }
+      }
+
+      .btn-fone:hover {
+        transition: 0.5s;
+        background-color: #21C05C;
+        font-weight: bold;
+      }
     }
+
+    .produto2 {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 299px;
+      height: 430px;
+      border: 2px solid #16A34A;
+      border-radius: 8px;
+      background-color: #FFFFFF;
+      gap: 20px;
+
+      img {
+        width: 295px;
+        height: 233px;
+      }
+
+      h4 {
+        font-family: "Inter";
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 100%;
+        color: #09090B;
+      }
+
+      p {
+        font-family: "Poppins";
+        font-weight: 400;
+        max-width: 222px;
+        font-size: 16px;
+        line-height: 100%;
+        color: #4B5563;
+      }
+
+      .btn-not {
+        background-color: #16A34A;
+        width: 150px;
+        padding: 10px;
+        border-radius: 6px;
+        border: 1px solid #16A34A;
+        cursor: pointer;
+
+        a {
+          width: 95px;
+          height: 17px;
+          font-family: "Inter";
+          font-weight: 400;
+          font-size: 14px;
+          line-height: 100%;
+          color: #FFFFFF;
+        }
+      }
+
+      .btn-not:hover {
+        transition: 0.5s;
+        background-color: #21C05C;
+        font-weight: bold;
+      }
+    }
+
+    .produto3 {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 299px;
+      height: 430px;
+      border: 2px solid #16A34A;
+      border-radius: 8px;
+      background-color: #FFFFFF;
+      gap: 20px;
+
+      img {
+        width: 295px;
+        height: 233px;
+      }
+
+      h4 {
+        font-family: "Inter";
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 100%;
+        color: #09090B;
+      }
+
+      p {
+        font-family: "Poppins";
+        font-weight: 400;
+        max-width: 222px;
+        font-size: 16px;
+        line-height: 100%;
+        color: #4B5563;
+      }
+
+      .btn-cell {
+        background-color: #16A34A;
+        width: 150px;
+        padding: 10px;
+        border-radius: 6px;
+        border: 1px solid #16A34A;
+        cursor: pointer;
+
+        a {
+          width: 95px;
+          height: 17px;
+          font-family: "Inter";
+          font-weight: 400;
+          font-size: 14px;
+          line-height: 100%;
+          color: #FFFFFF;
+        }
+      }
+
+      .btn-cell:hover {
+        transition: 0.5s;
+        background-color: #21C05C;
+        font-weight: bold;
+      }
+    }
+
   }
 }
