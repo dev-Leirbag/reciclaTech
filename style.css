@@ -215,4 +215,340 @@ a {
   font-size: 16px;
   line-height: 100%;
   color: #4B5563;
+}
+
+.section-banner3 {
+  margin: 70px 94px;
+}
+.section-banner3 .banner-text2 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-bottom: 50px;
+}
+.section-banner3 .banner-text2 h2 {
+  font-family: "Poppins";
+  font-weight: 700;
+  max-width: 338px;
+  max-height: 60px;
+  font-size: 40px;
+  line-height: 100%;
+  color: #1F2937;
+}
+.section-banner3 .banner-text2 h3 {
+  font-family: "Inter";
+  max-width: 494px;
+  max-height: 38px;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 150%;
+  color: #1F2937;
+}
+.section-banner3 .cards-section3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  gap: 80px;
+}
+.section-banner3 .cards-section3 .card-doadores {
+  display: block;
+  align-items: center;
+  justify-content: center;
+  background-color: #F3F5F8;
+  width: 491px;
+  height: 440px;
+  border-radius: 8px;
+  padding: 30px;
+}
+.section-banner3 .cards-section3 .card-doadores h3 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 150%;
+  color: #16A34A;
+  max-height: 38px;
+}
+.section-banner3 .cards-section3 .card-doadores h3 img {
+  width: 53.58px;
+  height: 53.58px;
+}
+.section-banner3 .cards-section3 .card-doadores p {
+  font-family: "Poppins";
+  font-weight: 400px;
+  font-size: 16px;
+  line-height: 100%;
+  max-width: 430px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  color: #4B5563;
+}
+.section-banner3 .cards-section3 .card-doadores .lista {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+.section-banner3 .cards-section3 .card-doadores .lista .item-1 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.section-banner3 .cards-section3 .card-doadores .lista .item-1 .itens-text1 {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 7px;
+}
+.section-banner3 .cards-section3 .card-doadores .lista .item-1 .itens-text1 p {
+  margin: 0px;
+}
+.section-banner3 .cards-section3 .card-doadores .lista .item-1 .itens-text1 .p-1 {
+  max-width: 296px;
+  max-height: 24px;
+  font-family: "Poppins";
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 100%;
+  color: #09090B;
+}
+.section-banner3 .cards-section3 .card-doadores .lista .item-1 .itens-text1 .p-2 {
+  max-width: 357px;
+  max-height: 24px;
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 100%;
+  color: #4B5563;
+}
+.section-banner3 .cards-section3 .card-doadores .lista .item-1 .itens-text1 img {
+  width: 32px;
+  height: 32px;
+}
+.section-banner3 .cards-section3 .card-doadores .lista .item-2 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.section-banner3 .cards-section3 .card-doadores .lista .item-2 .itens-text2 {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 7px;
+}
+.section-banner3 .cards-section3 .card-doadores .lista .item-2 .itens-text2 p {
+  margin: 0;
+}
+.section-banner3 .cards-section3 .card-doadores .lista .item-2 .itens-text2 .p-3 {
+  max-width: 296px;
+  max-height: 24px;
+  font-family: "Poppins";
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 100%;
+  color: #09090B;
+}
+.section-banner3 .cards-section3 .card-doadores .lista .item-2 .itens-text2 .p-4 {
+  max-width: 309px;
+  max-height: 24px;
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 100%;
+  color: #4B5563;
+}
+.section-banner3 .cards-section3 .card-doadores .lista .item-2 .itens-text2 img {
+  width: 32px;
+  height: 32px;
+}
+.section-banner3 .cards-section3 .card-doadores .lista .item-3 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.section-banner3 .cards-section3 .card-doadores .lista .item-3 .itens-text3 {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 7px;
+}
+.section-banner3 .cards-section3 .card-doadores .lista .item-3 .itens-text3 p {
+  margin: 0;
+}
+.section-banner3 .cards-section3 .card-doadores .lista .item-3 .itens-text3 .p-5 {
+  max-width: 296px;
+  max-height: 24px;
+  font-family: "Poppins";
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 100%;
+  color: #09090B;
+}
+.section-banner3 .cards-section3 .card-doadores .lista .item-3 .itens-text3 .p-6 {
+  max-width: 309px;
+  max-height: 24px;
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 100%;
+  color: #4B5563;
+}
+.section-banner3 .cards-section3 .card-doadores .lista .item-3 .itens-text3 img {
+  width: 32px;
+  height: 32px;
+}
+.section-banner3 .cards-section4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  gap: 80px;
+}
+.section-banner3 .cards-section4 .card-adquirentes {
+  display: block;
+  align-items: center;
+  justify-content: center;
+  background-color: #F3F5F8;
+  width: 491px;
+  height: 440px;
+  border-radius: 8px;
+  padding: 30px;
+}
+.section-banner3 .cards-section4 .card-adquirentes h3 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 150%;
+  color: #2563EB;
+  max-height: 104px;
+}
+.section-banner3 .cards-section4 .card-adquirentes h3 img {
+  width: 53.58px;
+  height: 53.58px;
+}
+.section-banner3 .cards-section4 .card-adquirentes p {
+  font-family: "Poppins";
+  font-weight: 400px;
+  font-size: 16px;
+  line-height: 100%;
+  max-width: 430px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  color: #4B5563;
+}
+.section-banner3 .cards-section4 .card-adquirentes .lista2 {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+.section-banner3 .cards-section4 .card-adquirentes .lista2 .item-4 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.section-banner3 .cards-section4 .card-adquirentes .lista2 .item-4 .itens-text4 {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 7px;
+}
+.section-banner3 .cards-section4 .card-adquirentes .lista2 .item-4 .itens-text4 p {
+  margin: 0;
+}
+.section-banner3 .cards-section4 .card-adquirentes .lista2 .item-4 .itens-text4 .p-7 {
+  max-width: 296px;
+  max-height: 24px;
+  font-family: "Poppins";
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 100%;
+  color: #09090B;
+}
+.section-banner3 .cards-section4 .card-adquirentes .lista2 .item-4 .itens-text4 .p-8 {
+  max-width: 309px;
+  max-height: 24px;
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 100%;
+  color: #4B5563;
+}
+.section-banner3 .cards-section4 .card-adquirentes .lista2 .item-4 .itens-text4 img {
+  width: 32px;
+  height: 32px;
+}
+.section-banner3 .cards-section4 .card-adquirentes .lista2 .item-5 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.section-banner3 .cards-section4 .card-adquirentes .lista2 .item-5 .itens-text5 {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 7px;
+}
+.section-banner3 .cards-section4 .card-adquirentes .lista2 .item-5 .itens-text5 p {
+  margin: 0;
+}
+.section-banner3 .cards-section4 .card-adquirentes .lista2 .item-5 .itens-text5 .p-9 {
+  max-width: 296px;
+  max-height: 24px;
+  font-family: "Poppins";
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 100%;
+  color: #09090B;
+}
+.section-banner3 .cards-section4 .card-adquirentes .lista2 .item-5 .itens-text5 .p-10 {
+  max-width: 309px;
+  max-height: 24px;
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 100%;
+  color: #4B5563;
+}
+.section-banner3 .cards-section4 .card-adquirentes .lista2 .item-5 .itens-text5 img {
+  width: 32px;
+  height: 32px;
+}
+.section-banner3 .cards-section4 .card-adquirentes .lista2 .item-6 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.section-banner3 .cards-section4 .card-adquirentes .lista2 .item-6 .itens-text6 {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 7px;
+}
+.section-banner3 .cards-section4 .card-adquirentes .lista2 .item-6 .itens-text6 p {
+  margin: 0;
+}
+.section-banner3 .cards-section4 .card-adquirentes .lista2 .item-6 .itens-text6 .p-11 {
+  max-width: 296px;
+  max-height: 24px;
+  font-family: "Poppins";
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 100%;
+  color: #09090B;
+}
+.section-banner3 .cards-section4 .card-adquirentes .lista2 .item-6 .itens-text6 .p-12 {
+  max-width: 309px;
+  max-height: 24px;
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 100%;
+  color: #4B5563;
+}
+.section-banner3 .cards-section4 .card-adquirentes .lista2 .item-6 .itens-text6 img {
+  width: 32px;
+  height: 32px;
 }/*# sourceMappingURL=style.css.map */
