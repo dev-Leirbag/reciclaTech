@@ -627,7 +627,6 @@ a {
 }
 
 .section-banner4 {
-  border: 2px solid green;
   background-color: #F3F5F8;
   padding: 50px 92px;
   width: 100%;
@@ -842,6 +841,219 @@ a {
         font-weight: bold;
       }
     }
-
   }
+}
+
+
+.section-banner5 {
+  margin: 60px;
+  margin-left: 0px;
+
+  .banner-text4 {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+
+    h2 {
+      font-family: "Poppins";
+      font-weight: 700;
+      font-size: 40px;
+      line-height: 100%;
+      text-align: center;
+      color: #1F2937;
+    }
+
+    h3 {
+      font-family: "Inter";
+      font-weight: 400;
+      font-size: 25px;
+      line-height: 150%;
+      text-align: center;
+      color: #4B5563;
+    }
+  }
+
+  .cards-avaliacao {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 70px;
+    gap: 30px;
+
+
+    .avaliacao-1 {
+      display: block;
+      border: 1px solid #9CA3AF;
+      border-radius: 4px;
+      padding: 20px;
+      background-color: #FFFFFF;
+      box-shadow: -4px 0px 10px rgba(156, 163, 175, 1);
+
+      .estrela {
+        width: 120px;
+        height: 24px;
+        margin-bottom: 13px;
+      }
+
+      p {
+        margin: 0;
+        max-width: 249px;
+        height: 120px;
+        font-family: "Poppins";
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 100%;
+      }
+
+      .text-avaliacao {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+
+        img {
+          width: 40px;
+          height: 40px;
+        }
+
+        .info {
+          display: flex;
+          flex-direction: column;
+
+          h4 {
+            font-family: "Inter";
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 100%;
+            color: #09090B;
+          }
+
+          h5 {
+            font-family: "Inter";
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 100%;
+            color: #6B7280;
+          }
+        }
+      }
+    }
+  }
+
+  .avaliacao-2 {
+    display: block;
+    border: 1px solid #9CA3AF;
+    border-radius: 4px;
+    padding: 20px;
+    background-color: #FFFFFF;
+    box-shadow: -4px 0px 10px rgba(156, 163, 175, 1);
+
+    .estrela {
+      width: 120px;
+      height: 24px;
+      margin-bottom: 13px;
+    }
+
+    p {
+      margin: 0;
+      max-width: 249px;
+      height: 120px;
+      font-family: "Poppins";
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 100%;
+    }
+
+    .text-avaliacao2 {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+
+      img {
+        width: 40px;
+        height: 40px;
+      }
+
+      .info2 {
+        display: flex;
+        flex-direction: column;
+
+        h4 {
+          font-family: "Inter";
+          font-weight: 400;
+          font-size: 14px;
+          line-height: 100%;
+          color: #09090B;
+        }
+
+        h5 {
+          font-family: "Inter";
+          font-weight: 400;
+          font-size: 14px;
+          line-height: 100%;
+          color: #6B7280;
+        }
+      }
+    }
+  }
+
+  .avaliacao-3 {
+    display: block;
+    border: 1px solid #9CA3AF;
+    border-radius: 4px;
+    padding: 20px;
+    background-color: #FFFFFF;
+    box-shadow: -4px 0px 10px rgba(156, 163, 175, 1);
+
+    .estrela {
+      width: 120px;
+      height: 24px;
+      margin-bottom: 13px;
+    }
+
+    p {
+      margin: 0;
+      max-width: 249px;
+      height: 120px;
+      font-family: "Poppins";
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 100%;
+    }
+
+    .text-avaliacao3 {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+
+      img {
+        width: 40px;
+        height: 40px;
+      }
+
+      .info3 {
+        display: flex;
+        flex-direction: column;
+
+        h4 {
+          font-family: "Inter";
+          font-weight: 400;
+          font-size: 14px;
+          line-height: 100%;
+          color: #09090B;
+        }
+
+        h5 {
+          font-family: "Inter";
+          font-weight: 400;
+          font-size: 14px;
+          line-height: 100%;
+          color: #6B7280;
+        }
+      }
+    }
+  }
+
+
 }
