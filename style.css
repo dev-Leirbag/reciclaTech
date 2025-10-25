@@ -925,4 +925,79 @@ a {
   font-size: 14px;
   line-height: 100%;
   color: #6B7280;
+}
+
+.section-banner6 {
+  background-color: #F3F5F8;
+  width: 100%;
+  height: 405px;
+}
+.section-banner6 .banner-text5 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 30px;
+  padding: 100px;
+}
+.section-banner6 .banner-text5 h2 {
+  font-family: "Poppins";
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 100%;
+  text-align: center;
+  color: #000000;
+}
+.section-banner6 .banner-text5 h3 {
+  font-family: "Inter";
+  width: 659px;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 150%;
+  text-align: center;
+  color: #000000;
+}
+.section-banner6 .btns {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+.section-banner6 .btns .btn-3 {
+  background-color: #16A34A;
+  width: 159px;
+  height: 44px;
+  padding: 14px;
+  border-radius: 6px;
+  border: 1px solid #16A34A;
+  cursor: pointer;
+  color: #FFFFFF;
+  text-align: center;
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 100%;
+}
+.section-banner6 .btns .btn-3:hover {
+  transition: 0.5s;
+  background-color: #21C05C;
+}
+.section-banner6 .btns .btn-4 {
+  width: 159px;
+  height: 44px;
+  padding: 14px;
+  border-radius: 6px;
+  border: 1px solid #16A34A;
+  cursor: pointer;
+  color: #16A34A;
+  text-align: center;
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 100%;
+}
+.section-banner6 .btns .btn-4:hover {
+  transition: 0.5s;
+  background-color: #21C05C;
+  color: #FFFFFF;
 }/*# sourceMappingURL=style.css.map */
